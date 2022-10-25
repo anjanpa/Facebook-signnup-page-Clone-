@@ -1,0 +1,92 @@
+body{
+    background:#f0f2f5;
+    font-family:'Times New Roman', Times, serif
+}
+
+.log{
+position:relative;
+left:55vw;
+}
+.log-top{
+    position:relative;
+    left:-4%;
+}
+
+.log .log-top .log-top-img{
+    height:106px;
+    width:auto;
+    margin:-28px;
+    position:relative;
+}
+
+.log-top-img{
+    position:absolute;
+    left:10%;
+}
+
+.log .log-top h2{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    text-align:center;
+} 
+
+.log-form{
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    box-sizing: border-box;
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    width: 396px;
+}
+
+input,button{
+    position:relative;
+    width:330px;
+    height:30px;
+    border-radius:6px;
+    border: 1px solid #dddfe2;
+    font-size:16px;
+    padding:10px;
+    margin:6px;
+    left:2%;
+}
+
+button{
+    padding-bottom:30px;
+    background-color:#1877f2;
+    color:#fff;
+}
+
+a{
+    position:relative;
+    left:25%;
+    text-decoration:none;
+    color:white;
+}
+
+.log-form-fget{
+    color:#1877f2;
+}
+.log-form-create{
+    position:relative;
+    color:#fff;
+    width:200px;
+    height:20px;
+    border-radius:6px;
+    border: 1px solid #dddfe2;
+    font-size:16px;
+    padding:10px;
+    margin:6px;
+    left:15%;
+    background-color:green ;
+   color:white;
+}
+
+
+
